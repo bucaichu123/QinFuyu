@@ -1,5 +1,6 @@
 ---
 title: "清欢"
+slug: "qinghuan"
 description: "人间有味是清欢——生活里的小美好"
 ---
 

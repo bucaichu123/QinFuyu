@@ -1,5 +1,6 @@
 ---
 title: "术业"
+slug: "shuye"
 description: "为有源头活水来——专业知识与学习笔记"
 ---
 

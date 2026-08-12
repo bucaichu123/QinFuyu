@@ -1,5 +1,6 @@
 ---
 title: "漫笔"
+slug: "manbi"
 description: "爱好由来下笔难——随笔、写作与心情记录"
 ---
 
