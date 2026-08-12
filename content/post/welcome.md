@@ -4,6 +4,7 @@ description: "第一篇博客，介绍一下这个小站"
 date: 2026-08-12
 draft: false
 tags: ["随笔"]
+categories: ["漫笔"]
 ---
 
 欢迎来到我的小屋！
