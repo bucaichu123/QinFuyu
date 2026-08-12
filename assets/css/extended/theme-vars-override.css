@@ -100,7 +100,6 @@ body {
 }
 
 .poem {
-  white-space: pre-line;
   line-height: 2;
   margin: 12px 0 24px;
 }
