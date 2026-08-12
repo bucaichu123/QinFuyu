@@ -1,0 +1,58 @@
+baseURL = 'https://bucaichu123.github.io/QinFuyu/'
+locale = 'zh-cn'
+title = '秦甫愉的小屋'
+theme = 'PaperMod'
+enableRobotsTXT = true
+hasCJKLanguage = true
+defaultContentLanguage = 'zh-cn'
+timeZone = 'Asia/Shanghai'
+
+[params]
+  env = 'production'
+  description = '写写文字，做做喜欢的事情。欢迎来秦甫愉的小屋坐坐。'
+  author = '秦甫愉'
+  searchPlaceholder = '输入关键词搜索…'
+  ShowReadingTime = true
+  ShowBreadCrumbs = true
+  ShowPostNavLinks = true
+  ShowCodeCopyButtons = true
+  ShowToc = true
+  comments = false
+
+  [params.homeInfoParams]
+    Title = '你好，我是秦甫愉'
+    Content = '欢迎来到我的小屋。我在这里写写文字、记录生活、分享喜欢的东西。文章慢慢更新，来日方长。'
+
+  [[params.socialIcons]]
+    name = 'email'
+    url = 'mailto:wqzl1214@gmail.com'
+
+  [params.fuseOpts]
+    isCaseSensitive = false
+    shouldSort = true
+    location = 0
+    distance = 1000
+    threshold = 0.4
+    minMatchCharLength = 0
+    keys = ['title', 'permalink', 'summary', 'content']
+
+[[menu.main]]
+    identifier = 'home'
+    name = '首页'
+    url = '/'
+    weight = 1
+  [[menu.main]]
+    identifier = 'post'
+    name = '博客'
+    url = '/post/'
+    weight = 2
+  [[menu.main]]
+    identifier = 'search'
+    name = '搜索'
+    url = '/search/'
+    weight = 3
+  [[menu.main]]
+    identifier = 'about'
+    name = '关于'
+    url = '/about/'
+    weight = 4

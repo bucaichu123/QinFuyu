@@ -1,0 +1,47 @@
+@import url('https://cdn.jsdelivr.net/npm/lxgw-wenkai-webfont@1.7.0/style.css');
+
+:root {
+  --primary: #B4552D;
+  --theme: #FAF6EF;
+  --content: #4A3F35;
+  --code-bg: #FFF8F0;
+  --border: #E8DCCB;
+  --secondary: #8A7A6A;
+  --tertiary: #E8DCCB;
+  --tertiary-bg: #FFF8F0;
+  --mark: #F3DCC3;
+  --highlight-bg: #FFF3E4;
+  --link-background-color: rgba(201, 123, 74, 0.12);
+  --link-underline: rgba(201, 123, 74, 0.3);
+}
+
+[data-theme="dark"] {
+  --primary: #E89A6A;
+  --theme: #23201C;
+  --content: #EAE0D2;
+  --code-bg: #2D2924;
+  --border: #403A32;
+  --secondary: #A29583;
+  --tertiary: #403A32;
+  --tertiary-bg: #2D2924;
+  --mark: #6B4A33;
+  --highlight-bg: #3A332B;
+  --link-background-color: rgba(232, 154, 106, 0.15);
+  --link-underline: rgba(232, 154, 106, 0.35);
+}
+
+body {
+  font-family: "LXGW WenKai", "PingFang SC", "Microsoft YaHei", var(--font-family, sans-serif);
+}
+
+.logo a {
+  color: var(--primary);
+}
+
+.post-entry {
+  border-radius: 14px;
+}
+
+.home-info .entry-content {
+  color: var(--secondary);
+}
