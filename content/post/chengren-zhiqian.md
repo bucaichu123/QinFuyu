@@ -9,6 +9,7 @@ categories: ["漫笔"]
 
 {{< rawhtml >}}
 <div class="poem">
+<p class="stanza">
 他们希望你， <br>
 在走出考场之前， <br>
 掰弯脊椎痴迷 <br>
@@ -17,15 +18,22 @@ categories: ["漫笔"]
 花蕊开合的声音， <br>
 轻嗅多余的晚风 <br>
 与无所事事的云。 <br>
+</p>
+<p class="stanza">
 却指责你， <br>
 在走出考场之后， <br>
 狼狈地跌入—— <br>
 目眩的觥筹， <br>
 不会停留的人流， <br>
 家徒四壁的水泥。 <br>
+</p>
+<p class="stanza">
 谁来告诉你， <br>
 栽培未曾见过的花朵， <br>
 迎接别离与喘息。 <br>
+</p>
+<p class="stanza">
 （2026.6.12再稿） <br>
+</p>
 </div>
 {{< /rawhtml >}}

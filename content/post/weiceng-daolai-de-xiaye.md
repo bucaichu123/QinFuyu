@@ -9,6 +9,7 @@ categories: ["漫笔"]
 
 {{< rawhtml >}}
 <div class="poem">
+<p class="stanza">
 浣洗过的夏夜， <br>
 星星划出弧线 <br>
 坠入草地， <br>
@@ -22,6 +23,8 @@ categories: ["漫笔"]
 沿着铁路驶向我。 <br>
 在那条颠倒的街道上， <br>
 如氢气球般飞向天空。 <br>
+</p>
+<p class="stanza">
 引力嫉妒我， <br>
 把我拽回沉默的大地。 <br>
 盘旋的海鸥与我短暂对视， <br>
@@ -30,6 +33,9 @@ categories: ["漫笔"]
 溶解在那枚泛红而微凉的落日。 <br>
 天空锻红，铁海冷却， <br>
 分割我和未曾到来的夏夜。 <br>
+</p>
+<p class="stanza">
 （2026.6.13初稿） <br>
+</p>
 </div>
 {{< /rawhtml >}}

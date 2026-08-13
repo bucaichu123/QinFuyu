@@ -9,6 +9,7 @@ categories: ["漫笔"]
 
 {{< rawhtml >}}
 <div class="poem">
+<p class="stanza">
 再一次被梦中 <br>
 残留的余温烫醒。 <br>
 四周墙壁缓缓睁开眼睛， <br>
@@ -16,12 +17,16 @@ categories: ["漫笔"]
 残月爬进阁楼的小窗， <br>
 把春凉钉进皮肤， <br>
 植入三个小时的清醒。 <br>
+</p>
+<p class="stanza">
 那晚西湖风碎， <br>
 吹不尽周身的噪点， <br>
 带不来月球的邮件。 <br>
 在纯黑的丝绒上行船， <br>
 骗自己已在深空， <br>
 不断溺毙和捞月。 <br>
+</p>
+<p class="stanza">
 我本想为她吟唱 <br>
 那首《鸽子》，在枝头歇停—— <br>
 南飞与北去， <br>
@@ -30,6 +35,9 @@ categories: ["漫笔"]
 我的大脑却如此痴愚， <br>
 暂停在离别的 <br>
 风里。 <br>
+</p>
+<p class="stanza">
 （2026.6.12再稿） <br>
+</p>
 </div>
 {{< /rawhtml >}}

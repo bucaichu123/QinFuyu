@@ -103,3 +103,11 @@ body {
   line-height: 2;
   margin: 12px 0 24px;
 }
+
+.poem .stanza {
+  margin: 0 0 2em;
+}
+
+.poem .stanza:last-child {
+  margin-bottom: 0;
+}
